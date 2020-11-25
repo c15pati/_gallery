@@ -10,7 +10,7 @@ categories:
   - Αρχέτυπα
   - input-device
 tags:
-  - Apple
-  - mouse
-  - One-button
+  - red
+  - balloon
+  - fun
 ---
