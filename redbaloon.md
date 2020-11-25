@@ -7,10 +7,13 @@ year: 1984
 license_url: 'https://commons.wikimedia.org/wiki/File:Apple_Macintosh_Plus_mouse.jpg'
 license_text: Courtesy of wikimedia
 categories:
-  - fun
   - input-device
+  - output-device
+  - Μοντέλα 
+  - Ορισμός
 tags:
-  - red
-  - balloon
-  - fun
+  - Minitel
+  - Teletel
+  - Internet
+  - WWW
 ---
